@@ -1,6 +1,6 @@
 package com.example.rabbit;
 
-public abstract class circle extends Shape {
+public abstract class Circle extends Shape {
     int x;
     int y;
 }
