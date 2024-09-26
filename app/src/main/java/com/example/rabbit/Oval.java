@@ -1,2 +1,4 @@
-package com.example.rabbit;public class Oval {
+package com.example.rabbit;
+
+public class Oval extends Shape{
 }
